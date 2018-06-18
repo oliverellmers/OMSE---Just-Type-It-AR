@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3b8a995a2a3be5c489c44646d17a8acb
+timeCreated: 1511480282
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Athletics
+  fontNames:
+  - Athletics
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
